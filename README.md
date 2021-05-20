@@ -1,3 +1,2 @@
-# Strapi application
-
-A quick description of your strapi application
+# Food Delivery Strapi Backend
+<https://github.com/yangricardo/food-delivery-strapi-nextjs>
