@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bakeries",
+  "info": {
+    "name": "bakery"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "integer"
+    }
+  }
+}
